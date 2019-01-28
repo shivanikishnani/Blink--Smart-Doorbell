@@ -14,7 +14,7 @@ Problem: Living in Berkeley, it isn't a surprise that my neighbourhood is plague
 The diagram for the ESP32 connections are given below:
 <img src = "images/diagram.png">
 
-<img src = "images/inside.png" height = 100 class="center">
+<img src = "images/inside.png" width = 100 class="center">
 
 
 
