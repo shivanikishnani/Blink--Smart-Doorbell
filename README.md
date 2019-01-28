@@ -5,7 +5,7 @@ Security, connection, convenience.  A doorbell add-on that upon sensing movement
 
 Problem: Living in Berkeley, it isn't a surprise that my neighbourhood is plagued with robberies and break-ins. Being a college student, I couldn't afford to buy a security system, so I decided to make my own using items I had lying around. I demo-ed this project for my EE49 class. 
 
-<img src = "images/blinkfinal.png" width =500>
+<img src = "images/blinkfinal.png" width =500 class="center">
 
 
 <h3> The breakdown:</h3>
@@ -14,7 +14,7 @@ Problem: Living in Berkeley, it isn't a surprise that my neighbourhood is plague
 The diagram for the ESP32 connections are given below:
 <img src = "images/diagram.png">
 
-<img src = "images/inside.png">
+<img src = "images/inside.png" height = 100 class="center">
 
 
 
