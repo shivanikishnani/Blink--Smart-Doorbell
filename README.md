@@ -5,8 +5,8 @@ Security, connection, convenience.  A doorbell add-on that upon sensing movement
 
 Problem: Living in Berkeley, it isn't a surprise that my neighbourhood is plagued with robberies and break-ins. Being a college student, I couldn't afford to buy a security system, so I decided to make my own using items I had lying around. I demo-ed this project for my EE49 class. 
 
-<img src = "images/blink.png" width=150>
-<img src = "images/blinkpro.png" width = 100>
+<img src = "images/blinkfinal.png" width =500>
+
 
 <h3> The breakdown:</h3>
 <img src = "images/breakdown.png">
