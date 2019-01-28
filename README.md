@@ -12,11 +12,11 @@ Living in Berkeley, it isn't a surprise that my neighbourhood is plagued with ro
 <h2> Solution:</h2>
 <img src = "images/breakdown.png">
      
+     
+    
 <h2>Circuit Diagram</h2>
 The diagram for the ESP32 connections are given below:
 <img src = "images/diagram.png">
-
-<img src = "images/inside.png" width = 130 class="center">
 
 
 <h2> Honest disclaimer: </h2>
